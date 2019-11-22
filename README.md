@@ -1,2 +1,3 @@
 # operationg_system
-linux
+
+Trying to program the system with the operating system
